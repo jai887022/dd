@@ -1,0 +1,6 @@
+{
+  "name": "AI Intelligence Website",
+  "description": "An interactive AI Intelligence exploration Hub offering a Cognitive Reasoning Sandbox, an Intelligence Profiler and Benchmark, and Multimodal Vision Intel search utilizing Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
