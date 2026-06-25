@@ -68,10 +68,6 @@ export default function CognitiveSandbox() {
     <div id="cognitive-sandbox-container" className="space-y-6">
       <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-gray-800 pb-5">
         <div>
-          <h2 className="text-2xl font-display font-semibold text-white flex items-center gap-2">
-            <Brain className="w-6 h-6 text-sky-400" />
-            Cognitive Logic Sandbox
-          </h2>
           <p className="text-sm text-gray-400 mt-1">
             Feed any puzzle, logic paradox, or complex concept to inspect raw analytical thought structures.
           </p>
